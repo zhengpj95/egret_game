@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<e:Skin class="BaseBubbleButtonSkin"
- xmlns:e="http://ns.egret.com/eui">
-	<e:Group id="groupBubble" x="4.72" visible="true" y="-26">
-		<e:Rect rotation="0" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x737474" fillAlpha="0.8" left="0" right="0" top="0" bottom="0"/>
-		<e:Label id="lbBubble" text="长按可连续操作" textColor="0x11EE22" size="20" x="1.28" verticalCenter="0"/>
-	</e:Group>
-	<e:Button id="btnOK" label="长按" x="24" y="0"/>
-</e:Skin>

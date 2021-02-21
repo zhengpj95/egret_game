@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<e:Skin class="SlotItemSkin" width="115" height="130" xmlns:e="http://ns.egret.com/eui">
-	<e:Image id="bg" source="diamond_png" width="57.5" height="65" scaleX="1" scaleY="1" x="29" y="33"/>
-</e:Skin>
