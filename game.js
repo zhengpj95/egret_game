@@ -1,7 +1,7 @@
 require('./src/weapp-adapter.js');
 require('./manifest.js');
 require('./src/egret.wxgame.js');
-require('./src/zlib.min.js');
+// require('./src/zlib.min.js');
 
 let runOptions = {
 	entryClassName: 'Main',
